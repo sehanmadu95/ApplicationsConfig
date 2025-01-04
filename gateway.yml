@@ -20,3 +20,5 @@ spring:
 server:
   port: 5555
 
+msg: test
+
